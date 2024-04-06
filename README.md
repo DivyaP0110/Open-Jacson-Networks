@@ -16,7 +16,13 @@ Visual components and Python
 ![image](https://user-images.githubusercontent.com/103921593/203239789-bc870dce-6727-487b-a0e2-4fc3f5114889.png)
 
 
+![WhatsApp Image 2024-04-06 at 11 12 51_07f7d495](https://github.com/DivyaP0110/Open-Jacson-Networks/assets/144870891/15ba0530-35f9-4362-820b-6c65dcbb6f65)
+
+
+
 ## Experiment:
+
+![WhatsApp Image 2024-04-06 at 11 12 41_6752fe0c](https://github.com/DivyaP0110/Open-Jacson-Networks/assets/144870891/bcf961a2-6bcb-443b-9cda-9171bc3cee32)
 
 
 ## Program
